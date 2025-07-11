@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/">
+
 How to Sign In to Netflix TV on Any Device?  
 ============================================
 
